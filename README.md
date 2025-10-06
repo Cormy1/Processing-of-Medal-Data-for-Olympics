@@ -41,3 +41,9 @@ tar_make()
 
 #tar_visnetwork() #allows visualisation of pipeline - as this is fairly straightforward here probably not necessary
 ```
+
+## Citation / Credits
+
+- **Medal data:** [Olympic.org](https://www.olympic.org/) 
+- **Population data:** [United Nations World Population Prospects](https://population.un.org/wpp/)  
+- **Code developed in R ≥ 4.3** using `{targets}`, `{tidyverse}`, `{countrycode}`
